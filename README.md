@@ -4,25 +4,13 @@
 W I L F R I E D   DC
 ```
 
-**`@VOROWilfried`** · Computer Science student · Building daily
+**`@wilfriedDC`** · Computer Science student · Building daily
 
 🟢 Open to opportunities
 
 </div>
 
----
 
-### About
-
-Computer Science student at **IGGLIA**, building real things every day.
-Aspiring software developer who believes consistency beats talent — discipline, problem-solving, impact.
-
-| | |
-|---|---|
-| 🎓 **School** | IGGLIA — Computer Science |
-| 💻 **Status** | Coding every day |
-| ⭐ **Motto** | Dream big, start small |
-| ⏱ **Mode** | Consistent — no days off |
 
 ---
 
@@ -40,13 +28,7 @@ Aspiring software developer who believes consistency beats talent — discipline
 
 ---
 
-### Vision
 
-> Coding is not just about writing code —  
-> it's about **discipline**, **problem-solving**, and creating **real impact**.  
-> Starting small. Staying consistent. Dreaming big.
-
----
 
 ### Contact
 
